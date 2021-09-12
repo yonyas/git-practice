@@ -1,3 +1,3 @@
 # git-practice
 
-abcde rebase
+a
